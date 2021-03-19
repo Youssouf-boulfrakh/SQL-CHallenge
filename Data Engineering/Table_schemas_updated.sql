@@ -1,8 +1,3 @@
--- SQL Homework - Employee Database: A Mystery in Two Parts
-
--- 1. Data Engineering
-
--- Create table for departments and import departments.csv 
 
 CREATE TABLE "departments" (
     "dept_no" VARCHAR(255) NOT NULL,
